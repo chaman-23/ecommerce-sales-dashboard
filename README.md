@@ -30,3 +30,42 @@ This project focuses on creating a professional and interactive **Sales Dashboar
 ---
 
 ## 📁 Folder Structure
+📦 ecommerce-sales-dashboard
+┣ 📂 data
+┃ ┣ 📄 raw_sales_data.xlsx
+┃ ┣ 📄 cleaned_sales_data.xlsx
+┣ 📂 visuals
+┃ ┣ 📷 dashboard_screenshot_1.png
+┃ ┣ 📷 dashboard_screenshot_2.png
+┣ 📄 dashboard.pbix
+┣ 📄 README.md
+
+
+---
+
+## 📈 Outcome
+This project demonstrates the use of **Power BI** and **Excel** to:
+- Automate business reporting
+- Generate visual insights from complex datasets
+- Build skills relevant to **Data Analyst**, **BI Developer**, or **Business Analyst** roles
+
+---
+
+## 🚀 Future Enhancements
+- Add predictive trends using Power BI's analytics pane
+- Use Power Query for dynamic data refresh
+- Connect real-time APIs or databases
+
+---
+
+## 👨‍💻 Author
+**Chaman Kumar Singh**  
+📧 rudra23032004@gmail.com  
+📍 Vadodara, Gujarat  
+🔗 [LinkedIn]( : https://www.linkedin.com/in/chaman-singh-5a67aa2b6)
+
+---
+
+## 📄 License
+This project is developed for academic and portfolio use. Free to reference with credit.
+
